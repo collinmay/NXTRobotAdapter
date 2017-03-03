@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NXT Robot Adapter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">NXT Robot Adapter</string>
+    <string name="title_activity_create_subsystem">Create Subsystem</string>
+    <string name="subsystem_add_name_hint">Subsystem Name</string>
+
+    <string name="pick_motor">PICK</string>
+    <string name="cancel_pick_motor">CANCEL</string>
+    <string name="title_activity_motor_picker">Pick a Motor</string>
+    <string name="left_motor_title">Left Motor</string>
+    <string name="right_motor_title">Right Motor</string>
+    <string name="create_subsystem_confirm">CREATE</string>
+    <string name="create_subsystem_cancel">CANCEL</string>
+    <string name="reverse_motor">Reverse</string>
+    <string name="nxt_detail_addr">Address</string>
+    <string name="nxt_detail_battery">Battery</string>
+    <string name="nxt_detail_name">Name</string>
+    <string name="nxt_detail_status">Status</string>
+    <string name="set_nxt_name">Set NXT Name:</string>
+    <string name="set_nxt_name_confirm">Set</string>
+    <string name="set_nxt_name_cancel">Cancel</string>
+</resources>

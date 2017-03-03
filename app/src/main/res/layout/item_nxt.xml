@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_gravity="start|center_vertical"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp" >
+
+	<TextView
+	    android:id="@+id/nxt_bt_name"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:textSize="10pt" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nxt_connstatus"
+        android:layout_below="@id/nxt_bt_name"
+        android:layout_alignParentLeft="true"
+        android:text="Disconnected" />
+	
+	<TextView
+	    android:id="@+id/nxt_bt_addr"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true" />
+
+    <ProgressBar
+        android:layout_width="100dp"
+        android:layout_height="3dp"
+        android:id="@+id/nxt_battery"
+        android:layout_below="@id/nxt_bt_addr"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:indeterminate="false"
+        android:visibility="invisible"
+        style="@android:style/Widget.ProgressBar.Horizontal"/>
+    
+</RelativeLayout>

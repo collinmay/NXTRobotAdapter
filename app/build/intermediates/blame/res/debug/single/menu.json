@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/res/merged/debug/menu/subsystem_contextual_menu.xml",
+        "source": "/home/misson20000/dev/java/android/NXTRobotAdapter/app/src/main/res/menu/subsystem_contextual_menu.xml"
+    },
+    {
+        "merged": "/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/misson20000/dev/java/android/NXTRobotAdapter/app/src/main/res/menu/main.xml"
+    }
+]

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.2.0_b7ac3a431ce6286cb3d4fe79744d02b0851c5b21.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.4.0_847a7c7c0542cbcccbd7b6aa9e24c3800d34e733.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/support-annotations-23.2.0_190d555a1babfee79d2adb7d9be6a3c4584d8cd1.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.github.romainguy/ViewServer/master/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2adcd782bbade02a93338f0dba7fb403704bb182">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.github.romainguy-ViewServer-master_949f1071bdfcadd8f6c9cec7f4490d6be90aa83d.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.2.0_f2b9b413fe600e91b9aa7d4dcad2364d00e8ac79.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.2.0_6f178b16b4ff0a3313e086dd3ab3692e4c28ead9.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/internal_impl-23.2.0_22515d739b42d71a8df9d0645cf657fe79ee8cfa.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.2.0_bef45de7f41ada483f1d91152b6b5ae3ce5ce743.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-8.4.0_eef63dc71e1f9df4284de179c96dd8df6f21dddc.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-8.4.0_37baa4c2b7bb07a7987556de3849532e5f13254f.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.2.0_f15c86946c707c5485982c25932b3c625170e206.jar" />
+    </item>
+    <item
+        jar="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/misson20000/dev/java/android/NXTRobotAdapter/app/build/intermediates/pre-dexed/release/com.android.support-design-23.2.0_5f61149b28a5f419cc23a3ba40709f330e20f4c8.jar" />
+    </item>
+
+</items>
